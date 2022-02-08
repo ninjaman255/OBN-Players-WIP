@@ -1,0 +1,10 @@
+imagePath="Shadows.png"
+
+animation state="PLAYER_IDLE"
+frame duration="0.05" x="6" y="4" w="18" h="10" originx="9" originy="5"
+
+animation state="S2"
+frame duration="0.05" x="27" y="1" w="34" h="15" originx="17" originy="3"
+
+animation state="S3"
+frame duration="0.05" x="64" y="1" w="41" h="15" originx="20" originy="3"

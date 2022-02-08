@@ -1,0 +1,76 @@
+imagePath="metabee_ow.png"
+
+
+animation state="IDLE_U"
+frame duration="0.05" x="0" y="15" w="16" h="17" originx="8" originy="17"
+
+animation state="IDLE_UR"
+frame duration="0.05" x="0" y="111" w="16" h="17" originx="8" originy="17"
+
+
+animation state="IDLE_R"
+frame duration="0.05" x="0" y="111" w="16" h="17" originx="8" originy="17"
+
+
+animation state="IDLE_DR"
+frame duration="0.05" x="0" y="111" w="16" h="17" originx="8" originy="17"
+
+animation state="IDLE_D"
+frame duration="0.05" x="0" y="47" w="16" h="17" originx="8" originy="17"
+
+animation state="IDLE_DL"
+frame duration="0.05" x="0" y="79" w="16" h="17" originx="8" originy="17"
+
+
+animation state="IDLE_L"
+frame duration="0.05" x="0" y="79" w="16" h="17" originx="8" originy="17"
+
+animation state="IDLE_UL"
+frame duration="0.05" x="0" y="79" w="16" h="17" originx="8" originy="17"
+
+
+animation state="WALK_U"
+frame duration="0.1" x="16" y="15" w="16" h="17" originx="8" originy="17"
+frame duration="0.1" x="0" y="15" w="16" h="17" originx="8" originy="17"
+frame duration="0.1" x="32" y="15" w="16" h="17" originx="8" originy="17"
+frame duration="0.1" x="0" y="15" w="16" h="17" originx="8" originy="17"
+
+animation state="WALK_UR"
+
+frame duration="0.05" x="16" y="111" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="0" y="111" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="32" y="111" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="0" y="111" w="16" h="17" originx="8" originy="17"
+
+animation state="WALK_R"
+
+frame duration="0.05" x="16" y="111" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="0" y="111" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="32" y="111" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="0" y="111" w="16" h="17" originx="8" originy="17"
+
+animation state="WALK_DR"
+
+frame duration="0.05" x="16" y="111" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="0" y="111" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="32" y="111" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="0" y="111" w="16" h="17" originx="8" originy="17"
+
+
+animation state="WALK_D"
+frame duration="0.05" x="16" y="47" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="0" y="47" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="32" y="47" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="0" y="47" w="16" h="17" originx="8" originy="17"
+
+animation state="WALK_L"
+frame duration="0.05" x="16" y="79" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="0" y="79" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="32" y="79" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="0" y="79" w="16" h="17" originx="8" originy="17"
+
+animation state="WALK_UL"
+frame duration="0.05" x="16" y="79" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="0" y="79" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="32" y="79" w="16" h="17" originx="8" originy="17"
+frame duration="0.05" x="0" y="79" w="16" h="17" originx="8" originy="17"

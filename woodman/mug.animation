@@ -1,0 +1,11 @@
+imagePath="mug.png"
+
+animation state="IDLE"
+frame duration="2" x="2" y="2" w="40" h="48" originx="0" originy="0"
+frame duration="0.05" x="128" y="2" w="40" h="48" originx="0" originy="0"
+frame duration="0.05" x="170" y="2" w="40" h="48" originx="0" originy="0"
+
+animation state="TALK"
+frame duration="0.05" x="2" y="2" w="40" h="48" originx="0" originy="0"
+frame duration="0.05" x="44" y="2" w="40" h="48" originx="0" originy="0"
+frame duration="0.05" x="86" y="2" w="40" h="48" originx="0" originy="0"

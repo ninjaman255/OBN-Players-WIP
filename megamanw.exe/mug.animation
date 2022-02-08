@@ -1,0 +1,11 @@
+imagePath="D:/EverythingOpenBN/ClientServer_4_14_2021/Release_6_9_v2/resources/mods/players/megamanw.exe/mug.png"
+
+animation state="TALK"
+frame duration="0.2" x="1" y="3" w="40" h="48" originx="0" originy="0"
+frame duration="0.2" x="130" y="3" w="40" h="48" originx="0" originy="0"
+frame duration="0.2" x="173" y="3" w="40" h="48" originx="0" originy="0"
+
+animation state="IDLE"
+frame duration="4" x="1" y="3" w="40" h="48" originx="0" originy="0"
+frame duration="0.05" x="44" y="3" w="40" h="48" originx="0" originy="0"
+frame duration="0.05" x="87" y="3" w="40" h="48" originx="0" originy="0"

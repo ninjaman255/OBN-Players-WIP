@@ -1,0 +1,11 @@
+imagePath="D:/EverythingOpenBN/ClientServer_4_14_2021/ReleaseV2A_1_8_22/resources/mods/players/Gravityman/mug.png"
+
+animation state="TALK"
+frame duration="0.08" x="0" y="0" w="40" h="48" originx="0" originy="0" flipx="0" flipy="0" 
+frame duration="0.08" x="41" y="0" w="40" h="48" originx="0" originy="0" flipx="0" flipy="0" 
+frame duration="0.08" x="82" y="0" w="40" h="48" originx="0" originy="0" flipx="0" flipy="0" 
+
+animation state="IDLE"
+frame duration="2" x="0" y="0" w="40" h="48" originx="0" originy="0" flipx="0" flipy="0" 
+frame duration="2" x="41" y="0" w="40" h="48" originx="0" originy="0" flipx="0" flipy="0" 
+frame duration="2" x="82" y="0" w="40" h="48" originx="0" originy="0" flipx="0" flipy="0" 

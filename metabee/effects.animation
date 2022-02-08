@@ -1,0 +1,44 @@
+imagePath="effects.png"
+
+animation state="PLAYER_CHARGE"
+
+frame duration="0.1167" x="54" y="48" w="16" h="8" originx="6" originy="4"
+frame duration="0.1334" x="75" y="48" w="16" h="8" originx="6" originy="4"
+frame duration="0.267" x="54" y="48" w="16" h="8" originx="6" originy="4"
+frame duration="0.1334" x="75" y="48" w="16" h="8" originx="6" originy="4"
+
+animation state="SHOT_BURST"
+
+frame duration="0.0334 x="11" y="43" w="18" h="17" originx="9" originy="8"
+frame duration="0.0334 x="32" y="43" w="20" h="17" originx="9" originy="8"
+
+
+animation state="MISSILE_START"
+
+frame duration="0.0334 x="12" y="79" w="22" h="26" originx="11" originy="13"
+frame duration="0.0667 x="40" y="72" w="26" h="32" originx="18" originy="16"
+
+
+animation state="MISSILE"
+frame duration="0.1334" x="78" y="83" w="14" h="10" originx="7" originy="5"
+frame duration="0.1334" x="96" y="83" w="14" h="10" originx="7" originy="5"
+
+
+animation state="MISSILE_HIT"
+
+frame duration="0.0334" x="11" y="187" w="21" h="20" originx="10" originy="10"
+frame duration="0.1334" x="47" y="183" w="29" h="30" originx="15" originy="15"
+
+
+
+animation state="MISSILE_COUNTER_3"
+frame duration="0.0166" x="8" y="165" w="14" h="6" originx="7" originy="3"
+
+animation state="MISSILE_COUNTER_2"
+frame duration="0.0166" x="25" y="165" w="14" h="6" originx="7" originy="3"
+
+animation state="MISSILE_COUNTER_1"
+frame duration="0.0166" x="42" y="165" w="14" h="6" originx="7" originy="3"
+
+animation state="MISSILE_COUNTER_0"
+frame duration="0.0166" x="59" y="165" w="14" h="6" originx="7" originy="3"

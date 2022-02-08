@@ -1,0 +1,105 @@
+imagePath="D:/EverythingOpenBN/ClientServer_4_14_2021/Release_5_6_2021/resources/mods/players/chargeman/chargemanOW.png"
+
+animation state="IDLE_U"
+frame duration="0.05" x="14" y="6" w="46" h="47" originx="22" originy="45"
+
+animation state="IDLE_UR"
+frame duration="0.05" x="167" y="6" w="57" h="47" originx="30" originy="44"
+
+animation state="IDLE_R"
+frame duration="0.05" x="361" y="10" w="53" h="42" originx="31" originy="40"
+
+animation state="IDLE_DR"
+frame duration="0.2" x="99" y="56" w="58" h="53" originx="26" originy="42"
+
+animation state="IDLE_D"
+frame duration="0.05" x="288" y="59" w="42" h="51" originx="21" originy="49"
+
+animation state="IDLE_UL"
+frame duration="0.05" x="167" y="6" w="57" h="47" originx="30" originy="44" flipx="1"
+
+animation state="IDLE_L"
+frame duration="0.05" x="361" y="10" w="53" h="42" originx="31" originy="40" flipx="1"
+
+animation state="IDLE_DL"
+frame duration="0.2" x="99" y="56" w="58" h="53" originx="26" originy="42" flipx="1"
+
+animation state="WALK_U"
+frame duration="0.2" x="64" y="6" w="46" h="47" originx="22" originy="45"
+frame duration="0.2" x="114" y="6" w="46" h="47" originx="22" originy="45"
+frame duration="0.2" x="14" y="6" w="46" h="47" originx="22" originy="45"
+
+animation state="WALK_UR"
+frame duration="0.2" x="231" y="6" w="60" h="47" originx="30" originy="44"
+frame duration="0.2" x="296" y="6" w="60" h="47" originx="30" originy="44"
+frame duration="0.2" x="167" y="6" w="60" h="47" originx="30" originy="44"
+
+animation state="WALK_R"
+frame duration="0.2" x="421" y="10" w="55" h="43" originx="31" originy="40"
+frame duration="0.2" x="484" y="10" w="55" h="43" originx="31" originy="40"
+frame duration="0.2" x="361" y="10" w="55" h="43" originx="31" originy="40"
+
+animation state="WALK_DR"
+frame duration="0.2" x="159" y="57" w="58" h="53" originx="26" originy="42"
+frame duration="0.2" x="220" y="57" w="58" h="53" originx="28" originy="42"
+frame duration="0.2" x="97" y="57" w="58" h="53" originx="29" originy="42"
+
+animation state="WALK_D"
+frame duration="0.2" x="336" y="59" w="42" h="51" originx="21" originy="49"
+frame duration="0.2" x="385" y="59" w="42" h="51" originx="20" originy="49"
+frame duration="0.2" x="288" y="59" w="42" h="51" originx="21" originy="49"
+
+animation state="WALK_UL"
+frame duration="0.2" x="231" y="6" w="60" h="47" originx="30" originy="44" flipx="1"
+frame duration="0.2" x="296" y="6" w="60" h="47" originx="30" originy="44" flipx="1"
+frame duration="0.2" x="167" y="6" w="60" h="47" originx="30" originy="44" flipx="1"
+
+animation state="WALK_L"
+frame duration="0.2" x="421" y="10" w="55" h="43" originx="31" originy="40" flipx="1"
+frame duration="0.2" x="484" y="10" w="55" h="43" originx="31" originy="40" flipx="1"
+frame duration="0.2" x="361" y="10" w="55" h="43" originx="31" originy="40" flipx="1"
+
+animation state="WALK_DL"
+frame duration="0.2" x="159" y="57" w="58" h="53" originx="26" originy="42" flipx="1"
+frame duration="0.2" x="220" y="57" w="58" h="53" originx="28" originy="42" flipx="1"
+frame duration="0.2" x="97" y="57" w="58" h="53" originx="29" originy="42" flipx="1"
+
+animation state="RUN_U"
+frame duration="0.1" x="64" y="6" w="46" h="47" originx="22" originy="45"
+frame duration="0.1" x="114" y="6" w="46" h="47" originx="22" originy="45"
+frame duration="0.1" x="14" y="6" w="46" h="47" originx="22" originy="45"
+
+animation state="RUN_UR"
+frame duration="0.1" x="231" y="6" w="60" h="47" originx="30" originy="44"
+frame duration="0.1" x="296" y="6" w="60" h="47" originx="30" originy="44"
+frame duration="0.1" x="167" y="6" w="60" h="47" originx="30" originy="44"
+
+animation state="RUN_R"
+frame duration="0.1" x="421" y="10" w="55" h="43" originx="31" originy="40"
+frame duration="0.1" x="484" y="10" w="55" h="43" originx="31" originy="40"
+frame duration="0.1" x="361" y="10" w="55" h="43" originx="31" originy="40"
+
+animation state="RUN_DR"
+frame duration="0.1" x="159" y="57" w="58" h="53" originx="26" originy="42"
+frame duration="0.1" x="220" y="57" w="58" h="53" originx="28" originy="42"
+frame duration="0.1" x="97" y="57" w="58" h="53" originx="29" originy="42"
+
+animation state="RUN_D"
+frame duration="0.1" x="336" y="59" w="42" h="51" originx="21" originy="49"
+frame duration="0.1" x="385" y="59" w="42" h="51" originx="20" originy="49"
+frame duration="0.1" x="288" y="59" w="42" h="51" originx="21" originy="49"
+
+animation state="RUN_UL"
+frame duration="0.1" x="231" y="6" w="60" h="47" originx="30" originy="44" flipx="1"
+frame duration="0.1" x="296" y="6" w="60" h="47" originx="30" originy="44" flipx="1"
+frame duration="0.1" x="167" y="6" w="60" h="47" originx="30" originy="44" flipx="1"
+
+animation state="RUN_L"
+frame duration="0.1" x="421" y="10" w="55" h="43" originx="31" originy="40" flipx="1"
+frame duration="0.1" x="484" y="10" w="55" h="43" originx="31" originy="40" flipx="1"
+frame duration="0.1" x="361" y="10" w="55" h="43" originx="31" originy="40" flipx="1"
+
+animation state="RUN_DL"
+frame duration="0.1" x="159" y="57" w="58" h="53" originx="26" originy="42" flipx="1"
+frame duration="0.1" x="220" y="57" w="58" h="53" originx="28" originy="42" flipx="1"
+frame duration="0.1" x="97" y="57" w="58" h="53" originx="29" originy="42" flipx="1"

@@ -1,0 +1,146 @@
+imagePath="battle.png"
+
+
+animation state="PLAYER_IDLE"
+
+frame duration="0.334" x="5" y="7" w="36" h="64" originx="18" originy="52"
+point label="Head" x="18" y="17"
+
+frame duration="0.134" x="48" y="8" w="36" h="64" originx="18" originy="51"
+point label="Head" x="18" y="17"
+
+frame duration="0.2" x="90" y="9" w="36" h="64" originx="19" originy="50"
+point label="Head" x="18" y="17"
+
+frame duration="0.134" x="131" y="10" w="36" h="64" originx="18" originy="49"
+point label="Head" x="18" y="17"
+
+frame duration="0.067" x="172" y="9" w="36" h="64" originx="18" originy="50"
+point label="Head" x="18" y="17"
+
+frame duration="0.134" x="213" y="7" w="36" h="64" originx="18" originy="52"
+point label="Head" x="18" y="17"
+
+
+animation state="PLAYER_SHOOTING"
+frame duration="0.0167" x="5" y="276" w="36" h="64" originx="13" originy="49"
+point label="Head" x="13" y="17"
+point label="Buster" x="15" y="25"
+
+frame duration="0.0167" x="5" y="276" w="36" h="64" originx="13" originy="49"
+point label="Head" x="13" y="17"
+point label="Buster" x="15" y="25"
+
+frame duration="0.0167" x="5" y="276" w="36" h="64" originx="13 originy="49"
+point label="Head" x="13" y="17"
+point label="Buster" x="15" y="25"
+
+frame duration="0.1" x="5" y="276" w="36" h="64" originx="13" originy="49"
+point label="Head" x="13" y="17"
+point label="Buster" x="15" y="25"
+
+
+
+
+animation state="BUSTER"
+frame duration="0.033" x="375" y="303" w="17" h="12" originx="0" originy="5"
+point label="endpoint" x="22" y="2"
+frame duration="0.033" x="375" y="303" w="17" h="12" originx="0" originy="5"
+point label="endpoint" x="22" y="2"
+frame duration="0.066" x="375" y="303" w="17" h="12" originx="0" originy="5"
+point label="endpoint" x="22" y="2"
+frame duration="0.1" x="375" y="303" w="17" h="12" originx="0" originy="5"
+point label="endpoint" x="22" y="2"
+
+
+animation state="PLAYER_SWORD"
+frame duration="0.167" x="288" y="14" w="36" h="64" originx="14" originy="49"
+point label="Head" x="18" y="17"
+point label="Hilt" x="0" y="-1000"
+
+frame duration="0.05" x="336" y="14" w="43" h="64" originx="14" originy="49"
+point label="Head" x="18" y="17"
+point label="Hilt" x="0" y="-1000"
+
+frame duration="0.05" x="384" y="13" w="36" h="64" originx="14" originy="50"
+point label="Head" x="18" y="17"
+point label="Hilt" x="0" y="-1000"
+
+frame duration="0.25" x="432" y="13" w="44" h="64" originx="22" originy="50"
+point label="Head" x="18" y="17"
+point label="Hilt" x="0" y="-1000"
+
+
+animation state="PLAYER_THROW"
+frame duration="0.116" x="5" y="215" w="36" h="58" originx="12" originy="43"
+point label="Head" x="18" y="17"
+point label="Hand" x="20" y="-1000"
+
+
+frame duration="0.083" x="88" y="211" w="36" h="58" originx="12" originy="47"
+point label="Head" x="18" y="17"
+point label="Hand" x="20" y="-1000"
+
+
+frame duration="0.05" x="126" y="208" w="36" h="60" originx="17" originy="50"
+point label="Head" x="18" y="17"
+
+frame duration="0.067" x="126" y="208" w="36" h="60" originx="17" originy="50"
+point label="Head" x="18" y="17"
+
+frame duration="0.083" x="126" y="208" w="36" h="60" originx="17" originy="50"
+point label="Head" x="18" y="17"
+
+
+
+
+animation state="PLAYER_HIT"
+frame duration="0.2" x="48" y="411" w="36" h="60" originx="18" originy="50"
+point label="Head" x="19" y="16"
+frame duration="0.02" x="5" y="414" w="36" h="60" originx="11" originy="47"
+point label="Head" x="19" y="16"
+
+
+animation state="PLAYER_MOVE"
+frame duration="0.334" x="5" y="7" w="36" h="64" originx="18" originy="52"
+point label="Head" x="18" y="17"
+frame duration="0.334" x="5" y="7" w="36" h="64" originx="18" originy="52"
+point label="Head" x="18" y="17"
+frame duration="0.334" x="5" y="7" w="36" h="64" originx="18" originy="52"
+point label="Head" x="18" y="17"
+frame duration="0.334" x="5" y="7" w="36" h="64" originx="18" originy="52"
+point label="Head" x="18" y="17"
+frame duration="0.334" x="5" y="7" w="36" h="64" originx="18" originy="52"
+point label="Head" x="18" y="17"
+frame duration="0.334" x="5" y="7" w="36" h="64" originx="18" originy="52"
+point label="Head" x="18" y="17"
+frame duration="0.334" x="5" y="7" w="36" h="64" originx="18" originy="52"
+point label="Head" x="18" y="17"
+
+
+animation state="PLAYER_CHARGE"
+frame duration="0.1334" x="5" y="341" w="44" h="64" originx="18" originy="51"
+point label="Head" x="19" y="17"
+point label="Buster" x="45" y="25"
+
+frame duration="0.0667" x="57" y="343" w="44" h="64" originx="18" originy="49"
+point label="Head" x="18" y="18"
+point label="Buster" x="42" y="25"
+
+frame duration="0.0667" x="109" y="342" w="44" h="64" originx="18" originy="50"
+point label="Head" x="19" y="17"
+
+frame duration="0.0667" x="162" y="342" w="44" h="64" originx="18" originy="50"
+point label="Head" x="18" y="17"
+
+
+animation state="PLAYER_MISSILE"
+frame duration="0.1167" x="5" y="215" w="36" h="58" originx="12" originy="43"
+
+frame duration="0.2" x="48" y="216" w="36" h="58" originx="12" originy="42"
+
+frame duration="0.0334" x="88" y="211" w="36" h="58" originx="12" originy="47"
+frame duration="0.0334" x="88" y="211" w="36" h="58" originx="12" originy="47"
+
+
+frame duration="0.15" x="126" y="208" w="36" h="60" originx="17" originy="50"

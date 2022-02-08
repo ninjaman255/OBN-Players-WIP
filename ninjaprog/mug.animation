@@ -1,0 +1,7 @@
+imagePath="D:/EverythingOpenBN/ClientServer_4_14_2021/Release_6_9_v2/resources/mods/players/ninjaprog/mug.png"
+
+animation state="TALK"
+frame duration="0.1" x="4" y="3" w="38" h="46" originx="0" originy="0"
+
+animation state="IDLE"
+frame duration="0.1" x="4" y="3" w="38" h="46" originx="0" originy="0"

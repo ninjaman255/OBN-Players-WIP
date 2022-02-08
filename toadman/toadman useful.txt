@@ -1,0 +1,1 @@
+SlideWhenMoving(true, frames(2))
